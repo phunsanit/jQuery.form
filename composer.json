@@ -1,0 +1,19 @@
+{
+    "name": "phunsanit/pitt_form",
+    "description": "dragable form",
+    "type": "libary",
+    "require": {
+        "components/font-awesome": "*",
+        "components/jquery": "*",
+        "components/jqueryui": "*",
+        "twbs/bootstrap": "*"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "pitt phunsanit",
+            "email": "phunsanit@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

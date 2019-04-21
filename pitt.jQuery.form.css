@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('your/path/fontawesome-webfont.eot?v=3.0.1');
+    src: url('your/path/fontawesome-webfont.eot?#iefix&v=3.0.1') format('embedded-opentype'),
+      url('your/path/fontawesome-webfont.woff?v=3.0.1') format('woff'),
+      url('your/path/fontawesome-webfont.ttf?v=3.0.1') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+aside {
+    border:#c0c000 solid 1px;
+    float: left;
+    width:200px;
+}
+aside ul {
+    list-style-type: none;
+}
+
+.form-check,
+.form-group {
+    border: #000000 dotted 1px;
+    margin: 4px;
+}
+
+.form-group .fa {
+    margin: 4px;
+}
+
+.form-check .menu,
+.form-group .menu {
+    float: right;
+}
+
+#playground {
+    border:#c00000 solid 1px;
+    margin-left: 200px;
+    min-height: 500px;
+    width: 100%;
+}
